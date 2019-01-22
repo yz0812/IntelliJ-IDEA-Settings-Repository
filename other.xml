@@ -1,0 +1,18 @@
+<application>
+  <component name="BackgroundImageConfiguration">
+    <option name="filename" value="http://i.imdb.com/Photos/Ss/0266543/Nemo102.jpg" />
+    <option name="localFile" value="false" />
+    <option name="enabled" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe">
+      <version-cache version="10.13.0" last-modified="1540856314000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
