@@ -6,11 +6,27 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="AUTO" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
