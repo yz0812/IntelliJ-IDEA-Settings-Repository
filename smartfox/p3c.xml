@@ -1,0 +1,5 @@
+<application>
+  <component name="P3cConfig">
+    <option name="analysisBeforeCheckin" value="true" />
+  </component>
+</application>
