@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="should be mapped with insert=&quot;false&quot; update=&quot;false&quot;" />
       <item value="金额" />
       <item value="T XF User Xf And Credit Total" />
       <item value="save Operating Record" />
@@ -12,7 +13,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
