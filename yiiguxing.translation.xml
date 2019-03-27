@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute batch" />
+      <item value="org.springframework.dao.DataIntegrityViolationException: could not execute batch; SQL" />
+      <item value="org.hibernate.StaleObjectStateException: Row was updated or deleted by another transaction (or unsaved-value mapping was incorrect) :" />
       <item value="should be mapped with insert=&quot;false&quot; update=&quot;false&quot;" />
       <item value="金额" />
       <item value="T XF User Xf And Credit Total" />
@@ -12,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
