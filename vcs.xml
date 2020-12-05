@@ -158,6 +158,10 @@
           <option name="url" value="http://yuanz@120.237.110.50:7888/r/szqg/bankcredit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/geek_qi/cloud-platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Users/workPackage/idea" />
