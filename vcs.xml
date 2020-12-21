@@ -166,6 +166,18 @@
           <option name="url" value="http://yuanz@120.237.110.50:7888/r/Q1Desktop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yz0812/yz-security.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com.cnpmjs.org/yz0812/yz-security.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com.cnpmjs.org" />
+          <option name="userName" value="yz0812" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Users/workPackage/idea" />
