@@ -194,6 +194,10 @@
           <option name="url" value="ssh://yuanz@120.24.23.155:29418/sunsail-platform-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/wuxw7/MicroCommunity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Users/workPackage/idea" />
